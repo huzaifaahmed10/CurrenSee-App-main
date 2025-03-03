@@ -1,0 +1,2 @@
+E:/CurrenSee-App/android/app/.cxx/Debug/276ur2xr/x86_64/CMakeFiles/edit_cache.dir
+E:/CurrenSee-App/android/app/.cxx/Debug/276ur2xr/x86_64/CMakeFiles/rebuild_cache.dir
